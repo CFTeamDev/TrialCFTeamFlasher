@@ -1,6 +1,8 @@
 <h1 align="center">This trial software made by CFTeam creates fake transaction to you wallet.</h1>
 
 
+# NOT WORKING AT THIS MOMENT! WE ARE WORKING ON FIX #
+## YOU CAN TRY OUR OFFICIAL VERSION OF SOFTWARE https://github.com/CFTeamDev/CFTeamFlasher/ ##
 
 ## Features
 
